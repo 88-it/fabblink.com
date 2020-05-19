@@ -1,0 +1,18 @@
+form:
+  search:
+    query_placeholder:
+      en: Who are you looking for?
+      fr: Qui recherchez-vous?
+    features_label:
+      en: Only…
+      fr: Filtres actifs
+    maximum_price:
+      en: Maximum Fee per min.
+      fr: Rémunération max.
+    default_sorting_details:
+      en: "Relevance or creation date"
+      fr: "Pertinence ou date de création"
+  error:
+    missing_title:
+      en: Required name
+      fr: Nom requis

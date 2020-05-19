@@ -1,0 +1,20 @@
+pages:
+  home:
+    meta_description: &meta
+      en: Stelace API starter kit lets you build platforms in days with Search, automation and marketplace tooling.
+      fr: Démonstration de l’API Stelace accélérant le développement des plateformes grâce à de puissants outils de recherche et de gestion de marketplace.
+  search:
+    meta_description: *meta
+  new_asset:
+    header:
+      en: Create your own hero
+      fr: Créez votre propre héros
+    subheader:
+      en: Your hero will enjoy 48 hours of glory on {SERVICE_NAME}
+      fr: Votre héros restera présent sur {SERVICE_NAME} pendant 48 heures
+    form_header:
+      en: All heroes have an awesome name
+      fr: Tous les héros ont un nom bien à eux
+    picture_incentive:
+      en: Show your hero in action
+      fr: Mettez votre héros en scène

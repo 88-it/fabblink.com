@@ -1,0 +1,37 @@
+{
+  "name": "Stelace Heroes Platform Demo",
+
+  "userFont": "Play",
+
+  "userFontNormal": "//fonts.gstatic.com/s/play/v10/6aez4K2oVqwIvtU2Hw.woff2",
+  "userFontMedium": "",
+  "userFontBold": "//fonts.gstatic.com/s/play/v10/6ae84K2oVqwItm4TCpAy2g.woff2",
+  "userFontDisplay": "fallback",
+  "userFontLegacyFormat": "woff",
+  "userFontNormalLegacy": "//fonts.gstatic.com/s/play/v10/6aez4K2oVqwIvtU2GQ.woff",
+  "userFontMediumLegacy": "",
+  "userFontBoldLegacy": "//fonts.gstatic.com/s/play/v10/6ae84K2oVqwItm4TCpAy3A.woff",
+
+  "roundedTheme": false,
+  "pageTransitions": true,
+
+  "homeHasLightBackground": true,
+  "homeSearchCardBackground": "rgba(0, 0, 0, 0.6)",
+  "hasSVGActionButton": true,
+
+  "baseImageAspectRatioWidth": 3,
+  "baseImageAspectRatioHeight": 2,
+  "baseImageWidth": 600,
+  "avatarImageWidth": 96,
+
+  "primaryColor": "#1055B6",
+  "secondaryColor": "#AC0B70",
+  "accentColor": "#0F1D34",
+  "positiveColor": "#009966",
+  "negativeColor": "#C10015",
+  "infoColor": "#22A3BD",
+  "warningColor": "#ED7F12",
+
+  "homeHeroUrl": "https://stelace-instant-files.s3.amazonaws.com/p/238380/live/images/e555a2ec488e16797ea03893fc9ea641-RMNP_DaveDugdale_Blue.jpg",
+  "homeHeroBase64": ""
+}
