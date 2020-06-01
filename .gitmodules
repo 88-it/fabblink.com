@@ -1,0 +1,3 @@
+[submodule "fabblink.contracts/eosio.contracts"]
+	path = fabblink.contracts/eosio.contracts
+	url = https://github.com/EOSIO/eosio.contracts.git
